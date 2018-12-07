@@ -1,6 +1,4 @@
-# Switch hack guide
-Полное руководство по использованию Switch для того самого
+# Switch hack guide -http://switch.customfw.xyz
 
-http://switch.customfw.xyz
 
 Я не несу ответственности за ваше раздолбайство. Сборка стабильная и работает на 100%
