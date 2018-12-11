@@ -1,0 +1,9 @@
+Atmosphère Fatal Report (v1.0):
+Result:                          0xCAFEF (2495-1623)
+
+Title ID:                        0100000000000032
+Firmware:                        6.1.0 (Atmosphère 0.8.2-master-84c776f-dirty)
+General Purpose Registers:
+    PC:                          0000000000000000
+Start Address:                   0000000000000000
+Stack Trace:
