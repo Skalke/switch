@@ -1,0 +1,11 @@
+{
+	"title": "Switch Presence",
+	"author": "Random0666",
+	"category": "advanced",
+	"version": "1.0.3",
+	"description": "Discord Rich Presence",
+	"details": "A Nintendo Switch custom sysmodule for Discord Rich Presence.\\n\\nBoot your switch into RCM mode and run hekate on it.\\nLaunch your hekate configuration with rich presence and wait until your switch turns on completely. (Also make sure that your switch is connected to internet.)\\nOpen the client (SwitchRichPresence.exe) and click the Connect button.\\nDone!\\n\\nPlease visit https://github.com/Random0666/SwitchPresence for a detailed breakdown of how to setup your presence.",
+	"url": "https://github.com/Random0666/SwitchPresence/releases",
+	"license": "GPL 2.0",
+	"changelog": "n/a"
+}

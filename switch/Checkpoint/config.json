@@ -1,12 +1,7 @@
 {
-  "filter": [
-
-  ],
-  "favorites": [
-
-  ],
-  "additional_save_folders": {
-
-  },
+  "additional_save_folders": {},
+  "favorites": [],
+  "filter": [],
+  "pksm-bridge": true,
   "version": 2
 }

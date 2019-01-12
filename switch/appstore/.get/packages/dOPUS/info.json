@@ -1,0 +1,11 @@
+{
+  "title": "n1dus",
+  "author": "Hidki",
+  "category": "tool",
+  "version": "0.7",
+  "url": "https://github.com/zhaoloving/n1dus",
+  "license": "GPLv3",
+  "description": "NSP/XCI manager for the Nintendo Switch",
+  "details": "n1dus formerly known as dOPUS is an installer and converter of NSP and XCI files for the Nintendo Switch. It is Based on Tinfoil and 4NXCI.\\n\\nDISCLAIMER: Use dOPUS at your own risk. I'm not responsible for any damage, data loss, or anything else dOPUS may cause.\\n\\nRequires sdmc:/keys.dat in order to extract/install XCI files.\\n\\nKeys can be extracted using tesnos' kezplez or shchmue's fork of kezplez. Hers supports the fuses and TSEC being dumped in multiple locations as well as also supporting firmware 6.0.",
+  "changelog": "0.7\\n\\ndOPUS becomes n1dus\\nNo more need for exFAT! Can now install and extract both NSP and XCI files over 4GB on a FAT32 SD Card :) (exFAT is notorious for being prone to file corruptions on the Switch). Read instructions there!\\nClock will now show the right time according to your switch timezone setting (thanks libnx :) ).\\nNow will look for keys.dat, keys.txt or prod.keys in '/', '/switch', or '/switch/n1dus'"
+}

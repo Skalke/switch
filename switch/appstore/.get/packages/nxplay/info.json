@@ -1,0 +1,11 @@
+{
+  "title": "NXPlay",
+  "author": "XorTroll",
+  "category": "tool",
+  "version": "0.1",
+  "url": "https://github.com/XorTroll/NXPlay",
+  "license": "",
+  "description": "Media Player",
+  "details": "Beta Release\\n\\nPlace MP3, WAV, OGG, MOD or FLAC audios at sdmc:/switch/nxplay and enjoy!\\n\\nControls info is on the app itself.\\n\\n\\nI'm working on a ffmpeg port to make videos also available, may take some time as ffmpeg is so big.",
+  "changelog": "This app is no longer being updated."
+}

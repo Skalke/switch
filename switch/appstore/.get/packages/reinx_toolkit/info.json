@@ -1,0 +1,11 @@
+{
+  "title": "ReiNX Toolkit",
+  "author": "Reisyukaku",
+  "category": "tool",
+  "version": "1.2",
+  "url": "https://github.com/Reisyukaku/ReiNXToolkit/releases",
+  "license": "",
+  "description": "Option extension to the ReiNX project",
+  "details": "Its an option extension to the ReiNX project that is comprised of many juicy features!\\n\\nFeatures:\\n\\nDumps NAND/Cal0/Boot0/Boot1\\nToggles AutoRCM\\nSplash.bin converter/changer (accepts formats such as jpg/bmp/png)\\nReboot/Power off option\\nUpdate the toolkit from within the toolkit",
+  "changelog": "1.2\\n\\nMerge pull request #13 from D3fau4/master\\n\\nfixed bad compilation problem\\n\\n1.1\\n\\nUpdate the ReiNX CFW\\nToggle AutoRCM\\nKip manager\\nDump NAND/Cal0/Boot0/Boot1\\nConvert splash screen given a jpg/png/bmp to splash.bin\\nReboot / shutdown"
+}
