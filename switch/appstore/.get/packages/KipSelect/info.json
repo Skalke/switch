@@ -2,10 +2,10 @@
   "title": "Kip Select",
   "author": "Sciguy429",
   "category": "tool",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "url": "https://github.com/Sciguy429/KipSelect",
   "license": "GPLv3",
   "description": "A toolkit and KIP manager for atmosphere",
   "details": "Warning: Do not use the reboot option if your SD card is formatted as exfat.\\n\\nA WIP toolkit for the switch cfw Atmopshere, it started out as a simple KIP manager but has become much more over time. This toolkit is intended for use with Atmosphere Fusee, it will still somewhat work other packs like Kosmos but stuff may be broken.\\n\\nFeatures:\\n - Enabling And Disabling Of KIPS\\n - Configuring BCT.ini\\n - Managing LayeredFS titles\\n - Console reboot (DO NOT USE WITH EXFAT SDCARD)\\n",
-  "changelog": ""
+  "changelog": "3.0.4\\n\\nYou can now download a updated NSWreleases.xml from within the tool. This file gets stored on the root of the SD card. If detected at launch the tool will use it instead of the file bundled in its romfs.\\n\\n3.0.3\\n\\nLFS now edits the correct flag, meaning enabling and disabling LFS items should now work properly.\\nThe tool now displays further information about LFS titles, such as there title name, if it can. Currently it dose this by using a bundled NSWreleases.xml, but in the future you will be able to update this file.\\nFixed a bug where if a titleid folder was named in lowercase the console would crash.\\nSome internal fixes to the makefile to make it easier for others to build the project."
 }
