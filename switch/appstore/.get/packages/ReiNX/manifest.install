@@ -1,7 +1,0 @@
-U: ReiNX.bin
-U: ReiNX/splash.bin
-U: ReiNX/sysmodules/fs_mitm.kip
-U: ReiNX/sysmodules/sm.kip
-U: ReiNX/sysmodules/loader.kip
-U: ReiNX/sysmodules/pm.kip
-U: ReiNX/patches/es_patch.rxp
