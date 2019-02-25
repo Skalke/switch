@@ -1,2 +1,3 @@
-U: hekate_ctcaer_4.6_svc.bin
+U: hekate_ctcaer_4.8.bin
+U: bootloader/update.bin
 U: bootloader/sys/libsys_lp0.bso
