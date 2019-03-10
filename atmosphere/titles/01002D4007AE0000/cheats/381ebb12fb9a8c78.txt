@@ -1,6 +1,4 @@
-[Mega Man Legacy Collection]
-
-[Master Code]
+{Master Code}
 580f0000 00d3a2a0
 580f1000 038cb840
 580f1000 00000008

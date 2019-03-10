@@ -1,5 +1,3 @@
-[STRIKERS1945II for Nintendo Switch 1.0.1]
-
 [P1 Infinite Lives]
 01000000 000cf2d0 00000009
 

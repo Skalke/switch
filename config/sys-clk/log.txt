@@ -1,0 +1,170 @@
+[2019-03-08 11:54:10] === sys-clk 0.11 ===
+[2019-03-08 11:54:17] Ready
+[2019-03-08 11:54:17] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 11:54:17] [mgr] CPU clock is now 1020000000
+[2019-03-08 11:54:17] [mgr] GPU clock is now 307200000
+[2019-03-08 11:54:17] [mgr] Memory clock is now 1331200000
+[2019-03-08 11:54:20] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 11:54:20] [mgr] Setting CPU clock to 816000000
+[2019-03-08 11:54:20] [mgr] Setting GPU clock to 230400000
+[2019-03-08 11:54:20] [mgr] Setting Memory clock to 800000000
+[2019-03-08 11:54:23] [mgr] CPU clock is now 816000000
+[2019-03-08 11:54:23] [mgr] GPU clock is now 230400000
+[2019-03-08 11:54:23] [mgr] Memory clock is now 800000000
+[2019-03-08 11:54:38] [mgr] CPU clock is now 1020000000
+[2019-03-08 11:54:38] [mgr] GPU clock is now 307200000
+[2019-03-08 11:54:38] [mgr] Memory clock is now 1331200000
+[2019-03-08 11:54:38] [mgr] Setting CPU clock to 816000000
+[2019-03-08 11:54:38] [mgr] Setting GPU clock to 230400000
+[2019-03-08 11:54:38] [mgr] Setting Memory clock to 800000000
+[2019-03-08 11:56:41] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 11:56:42] [cfg] Warning: File loading error while reading /config/sys-clk/config.ini
+[2019-03-08 11:56:51] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 12:08:13] === sys-clk 0.11 ===
+[2019-03-08 12:08:16] Ready
+[2019-03-08 12:08:16] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 12:08:16] [mgr] CPU clock is now 1020000000
+[2019-03-08 12:08:16] [mgr] GPU clock is now 307200000
+[2019-03-08 12:08:16] [mgr] Memory clock is now 1331200000
+[2019-03-08 12:08:19] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 12:36:56] === sys-clk 0.11 ===
+[2019-03-08 12:37:02] Ready
+[2019-03-08 12:37:02] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 12:37:02] [mgr] CPU clock is now 1020000000
+[2019-03-08 12:37:03] [mgr] GPU clock is now 307200000
+[2019-03-08 12:37:03] [mgr] Memory clock is now 1331200000
+[2019-03-08 12:37:06] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 12:37:09] [mgr] Application TitleID changed to: 0100E1400BA96000
+[2019-03-08 12:39:30] === sys-clk 0.11 ===
+[2019-03-08 12:39:37] Ready
+[2019-03-08 12:39:37] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 12:39:37] [mgr] CPU clock is now 1020000000
+[2019-03-08 12:39:37] [mgr] GPU clock is now 307200000
+[2019-03-08 12:39:37] [mgr] Memory clock is now 1331200000
+[2019-03-08 12:39:40] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 12:39:46] [mgr] Application TitleID changed to: 0100E1400BA96000
+[2019-03-08 12:55:47] === sys-clk 0.11 ===
+[2019-03-08 12:55:55] Ready
+[2019-03-08 12:55:55] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 12:55:55] [mgr] CPU clock is now 1020000000
+[2019-03-08 12:55:55] [mgr] GPU clock is now 307200000
+[2019-03-08 12:55:55] [mgr] Memory clock is now 1331200000
+[2019-03-08 12:55:58] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 12:56:10] [mgr] Application TitleID changed to: 0100E1400BA96000
+[2019-03-08 13:04:22] === sys-clk 0.11 ===
+[2019-03-08 13:04:25] Ready
+[2019-03-08 13:04:25] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-08 13:04:25] [mgr] CPU clock is now 1020000000
+[2019-03-08 13:04:25] [mgr] GPU clock is now 307200000
+[2019-03-08 13:04:26] [mgr] Memory clock is now 1331200000
+[2019-03-08 13:04:29] [cfg] reading /config/sys-clk/config.ini
+[2019-03-08 14:53:55] [mgr] Application TitleID changed to: 0100646009FBE000
+[2019-03-09 13:08:57] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 13:16:01] [mgr] Application TitleID changed to: 0100646009FBE000
+[2019-03-09 13:16:04] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 13:16:10] [mgr] Application TitleID changed to: 0100646009FBE000
+[2019-03-09 13:43:43] === sys-clk 0.11 ===
+[2019-03-09 13:43:51] Ready
+[2019-03-09 13:43:51] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 13:43:51] [mgr] CPU clock is now 1020000000
+[2019-03-09 13:43:51] [mgr] GPU clock is now 307200000
+[2019-03-09 13:43:51] [mgr] Memory clock is now 1331200000
+[2019-03-09 13:43:54] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 13:45:36] [mgr] Application TitleID changed to: 0104444444441001
+[2019-03-09 13:49:40] [mgr] Console profile changed to: Docked
+[2019-03-09 13:49:40] [mgr] GPU clock is now 768000000
+[2019-03-09 13:49:40] [mgr] Memory clock is now 1600000000
+[2019-03-09 13:55:14] === sys-clk 0.11 ===
+[2019-03-09 13:55:21] Ready
+[2019-03-09 13:55:21] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 13:55:21] [mgr] Console profile changed to: Docked
+[2019-03-09 13:55:21] [mgr] CPU clock is now 1020000000
+[2019-03-09 13:55:21] [mgr] GPU clock is now 768000000
+[2019-03-09 13:55:21] [mgr] Memory clock is now 1600000000
+[2019-03-09 13:55:24] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 13:56:25] [mgr] Memory clock is now 1331200000
+[2019-03-09 13:56:28] [mgr] GPU clock is now 307200000
+[2019-03-09 14:13:59] [mgr] Console profile changed to: Handheld
+[2019-03-09 14:14:02] [mgr] Application TitleID changed to: 0104444444441001
+[2019-03-09 14:32:15] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 14:32:18] [mgr] Application TitleID changed to: 010089700150E000
+[2019-03-09 14:32:24] [mgr] Application TitleID changed to: 0104444444441001
+[2019-03-09 14:53:53] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 14:54:00] [mgr] Application TitleID changed to: 01003A400C3DA000
+[2019-03-09 14:54:30] === sys-clk 0.11 ===
+[2019-03-09 14:54:53] Ready
+[2019-03-09 14:54:53] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 14:54:53] [mgr] CPU clock is now 1020000000
+[2019-03-09 14:54:53] [mgr] GPU clock is now 307200000
+[2019-03-09 14:54:54] [mgr] Memory clock is now 1331200000
+[2019-03-09 14:54:58] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 14:55:23] [mgr] Application TitleID changed to: 01003A400C3DA000
+[2019-03-09 14:55:53] === sys-clk 0.11 ===
+[2019-03-09 14:56:00] Ready
+[2019-03-09 14:56:00] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 14:56:00] [mgr] CPU clock is now 1020000000
+[2019-03-09 14:56:00] [mgr] GPU clock is now 307200000
+[2019-03-09 14:56:00] [mgr] Memory clock is now 1331200000
+[2019-03-09 14:56:03] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 14:56:15] [mgr] Application TitleID changed to: 0100000000012065
+[2019-03-09 15:00:46] === sys-clk 0.11 ===
+[2019-03-09 15:00:50] Ready
+[2019-03-09 15:00:50] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 15:00:50] [mgr] CPU clock is now 1020000000
+[2019-03-09 15:00:50] [mgr] GPU clock is now 307200000
+[2019-03-09 15:00:50] [mgr] Memory clock is now 1331200000
+[2019-03-09 15:00:53] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 15:01:08] [mgr] Application TitleID changed to: 0100000000012065
+[2019-03-09 15:01:17] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 15:01:23] [mgr] Application TitleID changed to: 01003A400C3DA000
+[2019-03-09 15:01:44] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 15:02:18] === sys-clk 0.11 ===
+[2019-03-09 15:02:24] Ready
+[2019-03-09 15:02:24] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 15:02:25] [mgr] CPU clock is now 1020000000
+[2019-03-09 15:02:25] [mgr] GPU clock is now 307200000
+[2019-03-09 15:02:25] [mgr] Memory clock is now 1331200000
+[2019-03-09 15:02:28] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 15:03:13] [mgr] Application TitleID changed to: 0104444444441001
+[2019-03-09 16:07:20] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 16:07:26] [mgr] Application TitleID changed to: 01007960049A0000
+[2019-03-09 16:07:29] [mgr] GPU clock is now 384000000
+[2019-03-09 16:08:17] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 16:08:18] [mgr] GPU clock is now 307200000
+[2019-03-09 16:10:18] [mgr] Application TitleID changed to: 0100D870045B6000
+[2019-03-09 16:11:06] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 16:11:21] [mgr] Application TitleID changed to: 0100D870045B6000
+[2019-03-09 16:11:39] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 16:53:23] === sys-clk 0.11 ===
+[2019-03-09 16:53:30] Ready
+[2019-03-09 16:53:30] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-09 16:53:30] [mgr] CPU clock is now 1020000000
+[2019-03-09 16:53:30] [mgr] GPU clock is now 307200000
+[2019-03-09 16:53:30] [mgr] Memory clock is now 1331200000
+[2019-03-09 16:53:33] [cfg] reading /config/sys-clk/config.ini
+[2019-03-09 16:54:13] [mgr] Console profile changed to: Handheld (Charging: Official)
+[2019-03-10 00:12:42] [mgr] Console profile changed to: Handheld
+[2019-03-10 00:12:51] [mgr] Application TitleID changed to: 0100E1400BA96000
+[2019-03-10 00:16:13] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-10 00:16:25] [mgr] Console profile changed to: Handheld (Charging: Official)
+[2019-03-10 12:51:14] [mgr] Console profile changed to: Docked
+[2019-03-10 12:51:14] [mgr] GPU clock is now 768000000
+[2019-03-10 12:51:14] [mgr] Memory clock is now 1600000000
+[2019-03-10 12:51:43] [mgr] Memory clock is now 1331200000
+[2019-03-10 12:51:46] [mgr] GPU clock is now 307200000
+[2019-03-10 12:53:45] [mgr] GPU clock is now 768000000
+[2019-03-10 12:53:45] [mgr] Memory clock is now 1600000000
+[2019-03-10 12:54:33] [mgr] Application TitleID changed to: 0100E1400BA96000
+[2019-03-10 13:23:12] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-10 13:23:27] [mgr] Application TitleID changed to: 0100646009FBE000
+[2019-03-10 14:55:05] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-10 14:57:01] [mgr] Memory clock is now 1331200000
+[2019-03-10 14:57:04] [mgr] GPU clock is now 307200000
+[2019-03-10 15:57:26] [mgr] Console profile changed to: Handheld
+[2019-03-10 16:07:49] === sys-clk 0.11.1 ===
+[2019-03-10 16:07:53] Ready
+[2019-03-10 16:07:53] [mgr] Application TitleID changed to: 0100000000001000
+[2019-03-10 16:07:53] [mgr] CPU clock is now 1020000000
+[2019-03-10 16:07:53] [mgr] GPU clock is now 307200000
+[2019-03-10 16:07:53] [mgr] Memory clock is now 1331200000
+[2019-03-10 16:07:56] [cfg] reading /config/sys-clk/config.ini
