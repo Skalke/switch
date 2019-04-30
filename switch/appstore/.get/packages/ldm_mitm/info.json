@@ -1,0 +1,11 @@
+{
+  "title": "ldm_mitm",
+  "author": "spacemeowx2",
+  "category": "tool",
+  "version": "1.2.2",
+  "url": "https://github.com/spacemeowx2/ldn_mitm/releases",
+  "license": "GPLv2",
+  "description": "A mitm kip modified from fs_mitm",
+  "details": "Play local wireless supported games online.\\n\\nPackage also includes the config tool loaded via hbmenu.\\n\\n\\n.\\n",
+  "changelog": "v1.2.2\\n\\nupdate libstratosphere"
+}
