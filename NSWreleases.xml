@@ -23788,12 +23788,858 @@
 	<imagesize>16</imagesize>
 	<serial>LA-H-APSWA</serial>
 	<titleid>0100EB100AB42000</titleid>
-	<imgcrc></imgcrc>
+	<imgcrc>083A711F</imgcrc>
 	<filename>v-ffxiiz</filename>
 	<releasename>Final_Fantasy_XII_The_Zodiac_Age_NSW-VENOM</releasename>
 	<trimmedsize>0</trimmedsize>
 	<firmware></firmware>
 	<type>1</type>
 	<card>2</card>
+</release>
+<release>
+	<id>1323</id>
+	<name>Mortal Kombat 11</name>
+	<publisher>WB Games</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,it,es,pt</languages>
+	<group>VENOM</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ASADA</serial>
+	<titleid>0100F2200C984000</titleid>
+	<imgcrc>EE786A92</imgcrc>
+	<filename>v-mk11</filename>
+	<releasename>Mortal_Kombat_11_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1324</id>
+	<name>Umihara Kawase Fresh!</name>
+	<publisher>SUCCESS</publisher>
+	<region>JPN</region>
+	<languages>en,ja,zh</languages>
+	<group>HR</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AQW8A</serial>
+	<titleid>01007D600B70A000</titleid>
+	<imgcrc>63123DB9</imgcrc>
+	<filename>hr-aqw8a</filename>
+	<releasename>Umihara_Kawase_Fresh_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1325</id>
+	<name>Cytus Alpha</name>
+	<publisher>Flyhigh Works</publisher>
+	<region>JPN</region>
+	<languages>en,ja,zh,ko</languages>
+	<group>HR</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AQENA</serial>
+	<titleid>010063100B2C2000</titleid>
+	<imgcrc>B83AFACD</imgcrc>
+	<filename>hr-aqena</filename>
+	<releasename>Cytus_Alpha_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1326</id>
+	<name>Sword Art Online: Hollow Realization [DELUXE EDITION]</name>
+	<publisher>Bandai Namco Games</publisher>
+	<region>JPN</region>
+	<languages>ja,zh,ko</languages>
+	<group>HR</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-AQTHA</serial>
+	<titleid>0100A1100B70E000</titleid>
+	<imgcrc>C000A341</imgcrc>
+	<filename>hr-aqtha</filename>
+	<releasename>Sword_Art_Online_Hollow_Realization_DELUXE_EDITION_MULTI_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1327</id>
+	<name>Piczle Puzzle Pack 3-in-1</name>
+	<publisher>Rainy Frog</publisher>
+	<region>JPN</region>
+	<languages>en,fr,de,it,es,pt,ja,zh</languages>
+	<group>HR</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-ATKZA</serial>
+	<titleid>0100D06003056000+010017600B532000+010029600CD44000</titleid>
+	<imgcrc>78A33A47</imgcrc>
+	<filename>hr-atkza</filename>
+	<releasename>Piczle_Puzzle_Pack_3-in-1_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1328</id>
+	<name>Satsujin Tantei Jack the Ripper</name>
+	<publisher>Nippon Ichi Software</publisher>
+	<region>JPN</region>
+	<languages>ja</languages>
+	<group>HR</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AQ9HA</serial>
+	<titleid>0100A4700BC98000</titleid>
+	<imgcrc>58D19C2A</imgcrc>
+	<filename>hr-aq9ha</filename>
+	<releasename>Satsujin_Tantei_Jack_the_Ripper_JPN_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1329</id>
+	<name>Dragons Dogma: Dark Arisen</name>
+	<publisher>CAPCOM</publisher>
+	<region>JPN</region>
+	<languages>en,fr,de,it,es,ja,zh</languages>
+	<group>HR</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-APTYA</serial>
+	<titleid>010057E00AC56000</titleid>
+	<imgcrc>EB2647DE</imgcrc>
+	<filename>hr-aptya</filename>
+	<releasename>Dragons_Dogma_Dark_Arisen_MULTI_DIRFIX_READNFO_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1330</id>
+	<name>Project Highrise Architects Edition</name>
+	<publisher>H2 INTERACTIVE</publisher>
+	<region>JPN</region>
+	<languages>en,fr,de,it,es,ru,ja,zh,ko</languages>
+	<group>HR</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-ANM4D</serial>
+	<titleid>010064800C6DA000</titleid>
+	<imgcrc>C6686791</imgcrc>
+	<filename>hr-anm4d</filename>
+	<releasename>Project_Highrise_Architects_Edition_MULTI_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1331</id>
+	<name>Bomber Crew: Complete Edition</name>
+	<publisher>Merge Games</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,es,ru</languages>
+	<group>VENOM</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-AKXGD</serial>
+	<titleid>010024400CAD6000</titleid>
+	<imgcrc>A817D558</imgcrc>
+	<filename>v-bombce</filename>
+	<releasename>Bomber_Crew_Complete_Edition_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1332</id>
+	<name>Reine des Fleurs for Nintendo Switch</name>
+	<publisher>IDEA FACTORY</publisher>
+	<region>JPN</region>
+	<languages>ja</languages>
+	<group>HR</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ARYXA</serial>
+	<titleid>0100B5800C0E4000</titleid>
+	<imgcrc>C65027E3</imgcrc>
+	<filename>hr-aryxa</filename>
+	<releasename>Reine_des_Fleurs_for_Nintendo_Switch_JPN_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1333</id>
+	<name>UglyDolls: An Imperfect Adventure</name>
+	<publisher>Outright Games</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,it,es,zh</languages>
+	<group>SUXXORS</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-AQNVA</serial>
+	<titleid>010079000B56C000</titleid>
+	<imgcrc>902285C5</imgcrc>
+	<filename>sxs-uglydolls</filename>
+	<releasename>UglyDolls_An_Imperfect_Adventure_NSW-SUXXORS</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1334</id>
+	<name>Wasteland 2: Directors Cut</name>
+	<publisher>InXile Entertainment</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,es,ru</languages>
+	<group>SUXXORS</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-AQ8XA</serial>
+	<titleid>010039A00BC64000</titleid>
+	<imgcrc>C0761183</imgcrc>
+	<filename>sxs-w2dc</filename>
+	<releasename>Wasteland_2_Directors_Cut_NSW-SUXXORS</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1335</id>
+	<name>Our World Is Ended.</name>
+	<publisher>Pqube</publisher>
+	<region>EUR</region>
+	<languages>en,ja</languages>
+	<group>VENOM</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AR4CA</serial>
+	<titleid>0100D5D00C6BE000</titleid>
+	<imgcrc>9BC3668D</imgcrc>
+	<filename>v-ourwie</filename>
+	<releasename>Our_World_Is_Ended_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1336</id>
+	<name>Monster Dynamite</name>
+	<publisher>Markt+Technik</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>PUSSYCAT</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-ARCYA</serial>
+	<titleid>010036C00BDE4000</titleid>
+	<imgcrc>CA4F1809</imgcrc>
+	<filename>cat-arcya</filename>
+	<releasename>Monster_Dynamite_MULTi5_NSW-PUSSYCAT</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1337</id>
+	<name>Saints Row: The Third - The Full Package</name>
+	<publisher>Deep Silver</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,ru</languages>
+	<group>LiGHTFORCE</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ARGWA</serial>
+	<titleid>0100DE600BEEE000</titleid>
+	<imgcrc>18F51926</imgcrc>
+	<filename>lfc-argwa</filename>
+	<releasename>Saints_Row-The_Third-The_Full_Package_NSW-LiGHTFORCE</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1338</id>
+	<name>Windstorm - Aris Arrival</name>
+	<publisher>EuroVideo</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,da,sv,nb,fi</languages>
+	<group>PUSSYCAT</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ASN7A</serial>
+	<titleid>0100D6800CEAC000</titleid>
+	<imgcrc>C2A9567A</imgcrc>
+	<filename>cat-asn7a</filename>
+	<releasename>Windstorm_Aris_Arrival_MULTi10_NSW-PUSSYCAT</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1339</id>
+	<name>Guilty Gear - 20th Anniversary Edition</name>
+	<publisher>H2 Interactive</publisher>
+	<region>EUR</region>
+	<languages>en,ja,zh</languages>
+	<group>VENOM</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ATQXA</serial>
+	<titleid>010045B00C702000+0100D1C00C700000</titleid>
+	<imgcrc>54DF7259</imgcrc>
+	<filename>v-gg20ae</filename>
+	<releasename>Guilty_Gear_20th_Anniversary_Edition_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1340</id>
+	<name>Assassins Creed III Remastered</name>
+	<publisher>Ubisoft</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,nl,pt,ru,ja,zh,ko</languages>
+	<group>VENOM</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-AQAJA</serial>
+	<titleid>01007F600B134000</titleid>
+	<imgcrc>CA8F8363</imgcrc>
+	<filename>v-asscrr</filename>
+	<releasename>Assassins_Creed_III_Remastered_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1341</id>
+	<name>Steven Universe: Save the Light &amp; OK K.O.! Lets Play Heroes</name>
+	<publisher>Cartoon Network</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,pt,ru</languages>
+	<group>VENOM</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-AR49A</serial>
+	<titleid>010008C00B2F2000+010030B00B2F6000</titleid>
+	<imgcrc>A50F7444</imgcrc>
+	<filename>v-stustl</filename>
+	<releasename>Steven_Universe_Save_the_Light_and_OK_K.O._Lets_Play_Heroes_Combo_DIRFIX_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1342</id>
+	<name>Guilty Gear - 20th Anniversary Pack</name>
+	<publisher>ARC SYSTEM WORKS</publisher>
+	<region>JPN</region>
+	<languages>en,ja,zh</languages>
+	<group>HR</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ATMFA</serial>
+	<titleid>0100C8400B248000+01006F80082E4000</titleid>
+	<imgcrc>926449F0</imgcrc>
+	<filename>hr-atmfa</filename>
+	<releasename>GUILTY_GEAR_20th_ANNIVERSARY_PACK_iNTERNAL_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1343</id>
+	<name>Team Sonic Racing</name>
+	<publisher>SEGA</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,ru,ja</languages>
+	<group>VENOM</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-AMKCB</serial>
+	<titleid>010084B00B36E000</titleid>
+	<imgcrc>34207FD9</imgcrc>
+	<filename>v-sonicr</filename>
+	<releasename>Team_Sonic_Racing_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1344</id>
+	<name>Skelly Selest</name>
+	<publisher>Digerati</publisher>
+	<region>WLD</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-ATSSA</serial>
+	<titleid>01006C000DC8A000</titleid>
+	<imgcrc>D72F5506</imgcrc>
+	<filename>bbb-n-skellyselest</filename>
+	<releasename>Skelly.Selest.eShop.NSW-BigBlueBox</releasename>
+	<trimmedsize>91680024</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1345</id>
+	<name>Team Sonic Racing</name>
+	<publisher>SEGA</publisher>
+	<region>JPN</region>
+	<languages>en,ja,zh,ko</languages>
+	<group>HR</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-AMKCC</serial>
+	<titleid>010029D00B72A000</titleid>
+	<imgcrc>109610BB</imgcrc>
+	<filename>hr-amkcc</filename>
+	<releasename>Team_Sonic_Racing_MULTI_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1346</id>
+	<name>Hanayaka Nari Wa ga Ichizoku: Modern Nostalgie for Nintendo Switch</name>
+	<publisher>IDEA FACTORY</publisher>
+	<region>JPN</region>
+	<languages>ja</languages>
+	<group>HR</group>
+	<imagesize>8</imagesize>
+	<serial>LA-H-ARJKA</serial>
+	<titleid>01008DE00C022000</titleid>
+	<imgcrc>5DD3A753</imgcrc>
+	<filename>hr-arjka</filename>
+	<releasename>Hanayaka_Nari_Waga_Ichizoku_Modern_Nostalgie_for_Nintendo_Switch_JPN_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1347</id>
+	<name>Resident Evil 0</name>
+	<publisher>Capcom</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,it,es,ja,zh</languages>
+	<group>VENOM</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-AQ76B</serial>
+	<titleid>010097000BC10000</titleid>
+	<imgcrc>789A0340</imgcrc>
+	<filename>v-revil0</filename>
+	<releasename>Resident_Evil_0_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1348</id>
+	<name>WAKU WAKU SWEETS</name>
+	<publisher>Arc System Works</publisher>
+	<region>KOR</region>
+	<languages>en,ja,zh,ko</languages>
+	<group>VENOM</group>
+	<imagesize>4</imagesize>
+	<serial>LA-H-AQN8C</serial>
+	<titleid>0100F7000DC14000</titleid>
+	<imgcrc>F18B1410</imgcrc>
+	<filename>v-wsweet</filename>
+	<releasename>Waku_Waku_Sweets_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1349</id>
+	<name>Minna no Doubutsu Shogi</name>
+	<publisher>SilverStar Japan</publisher>
+	<region>JPN</region>
+	<languages>ja</languages>
+	<group>HR</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-ASUCA</serial>
+	<titleid>0100C7F00D0B6000</titleid>
+	<imgcrc>ED57B796</imgcrc>
+	<filename>hr-asuca</filename>
+	<releasename>Minna_no_Dobutsu_Shogi_JPN_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1350</id>
+	<name>For The King</name>
+	<publisher>Curve Digital</publisher>
+	<region>EUR</region>
+	<languages>en,fr,de,it,es,pt,ru,ja,zh,ko</languages>
+	<group>VENOM</group>
+	<imagesize>2</imagesize>
+	<serial>LA-H-AQTWA</serial>
+	<titleid>010069400B6BE000</titleid>
+	<imgcrc>D8D71E5B</imgcrc>
+	<filename>v-ftking</filename>
+	<releasename>For_The_King_NSW-VENOM</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1351</id>
+	<name>Biohazard 0 HD Remaster</name>
+	<publisher>Capcom</publisher>
+	<region>JPN</region>
+	<languages>en,fr,de,it,es,ja,zh</languages>
+	<group>HR</group>
+	<imagesize>16</imagesize>
+	<serial>LA-H-AQ76A</serial>
+	<titleid>0100F3000BC0C000</titleid>
+	<imgcrc>E3DC358D</imgcrc>
+	<filename>hr-aq76a</filename>
+	<releasename>Biohazard_0_HD_REMASTER_MULTI_READNFO_NSW-HR</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>1</type>
+	<card>2</card>
+</release>
+<release>
+	<id>1352</id>
+	<name>Retail Interactive Display Menu *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100069000078000</titleid>
+	<imgcrc>E7A572A1</imgcrc>
+	<filename>bbb-n-ridmkiosk</filename>
+	<releasename>Retail.Interactive.Display.Menu.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1353</id>
+	<name>The Legend of Zelda: Breath of the Wild *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>7</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100509005AF2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-tlozbotwkiosk</filename>
+	<releasename>The.Legend.of.Zelda.Breath.of.the.Wild.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1354</id>
+	<name>Super Mario Odyssey *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>3</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>01001E5006C6E000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-smokiosk</filename>
+	<releasename>Super.Mario.Odyssey.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1355</id>
+	<name>Mario Kart 8 Deluxe *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>4</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100D4E005B3E000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-mk8dkiosk</filename>
+	<releasename>Mario.Kart.8.Deluxe.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1356</id>
+	<name>Pokemon: Lets Go, Pikachu! *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>3</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>01009AD008C4C000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-plgpkiosk</filename>
+	<releasename>Pokemon.Lets.Go.Pikachu.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1357</id>
+	<name>POKKEN TOURNAMENT DX *KIOSK*</name>
+	<publisher>The Pokemon Company</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>010034F005AE2000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-ptdkiosk</filename>
+	<releasename>POKKEN.TOURNAMENT.DX.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1358</id>
+	<name>New Super Mario Bros. U Deluxe *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>01006E800972C000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-nsmbudkiosk</filename>
+	<releasename>New.Super.Mario.Bros.U.Deluxe.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1359</id>
+	<name>Super Mario Party *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,pt,ru,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>2</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100F5100BEF6000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-smpkiosk</filename>
+	<releasename>Super.Mario.Party.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1360</id>
+	<name>Mario Tennis Aces *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>01008ED00BC44000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-mtakiosk</filename>
+	<releasename>Mario.Tennis.Aces.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1361</id>
+	<name>Hyrule Warriors: Definitive Edition *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>5</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100F1D00AA86000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-hwdekiosk</filename>
+	<releasename>Hyrule.Warriors.Definitive.Edition.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1362</id>
+	<name>Yoshis Crafted World *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>01006A400C9C8000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-ycwkiosk</filename>
+	<releasename>Yoshis.Crafted.World.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1363</id>
+	<name>Fire Emblem Warriors *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es</languages>
+	<group>BigBlueBox</group>
+	<imagesize>5</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100A21003E66000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-fewkiosk</filename>
+	<releasename>Fire.Emblem.Warriors.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1364</id>
+	<name>Kirby Star Allies *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,es,ja,zh,ko</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100BC0009716000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-ksakiosk</filename>
+	<releasename>Kirby.Star.Allies.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1365</id>
+	<name>ARMS *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ru,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>3</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>0100913006CC6000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-armskiosk</filename>
+	<releasename>ARMS.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1366</id>
+	<name>Captain Toad: Treasure Tracker *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>010095C00B308000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-ctttkiosk</filename>
+	<releasename>Captain.Toad.Treasure.Tracker.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1367</id>
+	<name>Mega Man 11 *KIOSK*</name>
+	<publisher>Capcom</publisher>
+	<region>USA</region>
+	<languages>en,fr,de,it,es,ja,zh</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>010068F00C89E000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-mm11kiosk</filename>
+	<releasename>Mega.Man.11.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1368</id>
+	<name>Snipperclips Plus *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>010015E007A7C000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-spkiosk</filename>
+	<releasename>Snipperclips.Plus.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1369</id>
+	<name>Sushi Striker: The Way of Sushido *KIOSK*</name>
+	<publisher>Nintendo</publisher>
+	<region>WLD</region>
+	<languages>en,fr,de,it,es,nl,ja</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1</imagesize>
+	<serial>LA-N-?????</serial>
+	<titleid>010099A00B12A000</titleid>
+	<imgcrc></imgcrc>
+	<filename>bbb-n-sstwoskiosk</filename>
+	<releasename>Sushi.Striker.The.Way.of.Sushido.KIOSK.eShop.INTERNAL.NSW-BigBlueBox</releasename>
+	<trimmedsize>0</trimmedsize>
+	<firmware></firmware>
+	<type>4</type>
+	<card>1</card>
 </release>
 </releases>
